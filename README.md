@@ -1,4 +1,4 @@
-# Project Name
+# Placement Prediction
 
 ## Overview
 This project includes a Flask web application for making predictions using a machine learning model. It uses SMOTE for handling class imbalance.
